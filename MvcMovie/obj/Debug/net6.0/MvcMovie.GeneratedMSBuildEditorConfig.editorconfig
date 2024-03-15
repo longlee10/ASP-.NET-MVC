@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\user\Documents\STUDY\sem 5 - WINTER 2024\DEVOPS IMPLEMENTATION\Week 9\MvcMovie\MvcMovie
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/user/Documents/STUDY/sem 5 - WINTER 2024/DEVOPS IMPLEMENTATION/Week 9/MvcMovie/MvcMovie/Views/HelloWord/HelloWorld.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JkXEhlbGxvV29ybGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/STUDY/sem 5 - WINTER 2024/DEVOPS IMPLEMENTATION/Week 9/MvcMovie/MvcMovie/Views/HelloWord/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9Xb3JkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/user/Documents/STUDY/sem 5 - WINTER 2024/DEVOPS IMPLEMENTATION/Week 9/MvcMovie/MvcMovie/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
